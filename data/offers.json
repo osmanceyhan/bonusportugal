@@ -1,0 +1,71 @@
+{
+  "site": "bonusportugal",
+  "clickid": "bp20260606",
+  "offers": [
+    {
+      "slug": "solverde",
+      "display_name": "Solverde",
+      "brand_color": "#003d7a",
+      "rating": 4.5,
+      "bonus_headline": "25 Free Spins + 100% up to €100",
+      "feature_bullets": ["SRIJ licensed — Portuguese operator", "No-deposit free spins on registration", "Physical casinos across Portugal"],
+      "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
+      "min_deposit_gbp": 10,
+      "min_wager_terms": "30x bonus, 30 days",
+      "tracker_url": "https://www.solverde.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=solverde&subid=sv-bp0606",
+      "logo_bg": "#003d7a"
+    },
+    {
+      "slug": "bwin",
+      "display_name": "bwin",
+      "brand_color": "#1a1a1a",
+      "rating": 4.5,
+      "bonus_headline": "€50 Casino Welcome Bonus",
+      "feature_bullets": ["SRIJ licensed — global operator", "Live casino with Portuguese dealers", "Over 1,000 slots available"],
+      "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco", "PayPal"],
+      "min_deposit_gbp": 10,
+      "min_wager_terms": "30x bonus, 30 days",
+      "tracker_url": "https://www.bwin.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=bwin&subid=bw-bp0606",
+      "logo_bg": "#1a1a1a"
+    },
+    {
+      "slug": "esc-online",
+      "display_name": "ESC Online",
+      "brand_color": "#0a0a0a",
+      "rating": 4.4,
+      "bonus_headline": "30 Free Spins + 100% up to €250",
+      "feature_bullets": ["SRIJ licensed casino", "No-deposit spins at registration", "Estoril Sol brand backing"],
+      "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
+      "min_deposit_gbp": 10,
+      "min_wager_terms": "35x bonus, 30 days",
+      "tracker_url": "https://www.esconline.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=esc-online&subid=esc-bp0606",
+      "logo_bg": "#0a0a0a"
+    },
+    {
+      "slug": "betano",
+      "display_name": "Betano",
+      "brand_color": "#1a8b4d",
+      "rating": 4.7,
+      "bonus_headline": "100 Free Spins + 100% up to €200",
+      "feature_bullets": ["SRIJ licence #012", "Withdrawals within 24 hours", "Award-winning mobile app"],
+      "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
+      "min_deposit_gbp": 10,
+      "min_wager_terms": "20x bonus, 30 days",
+      "tracker_url": "https://www.betano.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=betano&subid=bet-bp0606",
+      "logo_bg": "#1a8b4d"
+    },
+    {
+      "slug": "betclic",
+      "display_name": "Betclic",
+      "brand_color": "#e3001b",
+      "rating": 4.3,
+      "bonus_headline": "€40 Casino Bonus on First Deposit",
+      "feature_bullets": ["SRIJ licensed — European operator", "Over 1,600 casino games", "Minimum deposit just €10"],
+      "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
+      "min_deposit_gbp": 10,
+      "min_wager_terms": "20x bonus, 30 days",
+      "tracker_url": "https://www.betclic.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=betclic&subid=bc-bp0606",
+      "logo_bg": "#e3001b"
+    }
+  ]
+}

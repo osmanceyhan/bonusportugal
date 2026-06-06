@@ -10,7 +10,7 @@
       "bonus_headline": "€50 Casino Welcome Bonus",
       "feature_bullets": ["SRIJ licensed — global operator", "Live casino with Portuguese dealers", "VIP rewards programme"],
       "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco", "PayPal"],
-      "min_deposit_gbp": 10,
+      "min_deposit_eur": 10,
       "min_wager_terms": "30x bonus, 30 days",
       "tracker_url": "https://www.bwin.pt/pt/casino?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=bonus_pt&subid=bpt_bwin_w1",
       "logo_bg": "#1a1a1a"
@@ -23,7 +23,7 @@
       "bonus_headline": "Special Bonus — Strategic Player Conditions",
       "feature_bullets": ["SRIJ licensed — Portuguese pioneer", "Over 200 premium games", "Excellent mobile experience"],
       "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
-      "min_deposit_gbp": 10,
+      "min_deposit_eur": 10,
       "min_wager_terms": "30x bonus, 30 days",
       "tracker_url": "https://tracker-pm2.casinoportugal.pt/link?btag=85116035_380423&utm_source=bonusportugal&subid=bpt_caspt_w2",
       "logo_bg": "#c41e3a"
@@ -36,7 +36,7 @@
       "bonus_headline": "30 Free Spins + 100% up to €250",
       "feature_bullets": ["SRIJ licensed — Estoril Sol Group", "Live dealer tables in Portuguese", "Premium slot collection"],
       "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
-      "min_deposit_gbp": 10,
+      "min_deposit_eur": 10,
       "min_wager_terms": "35x bonus, 30 days",
       "tracker_url": "https://www.estorilsolcasinos.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=bonus_pt&subid=bpt_esc_w3",
       "logo_bg": "#0a0a0a"
@@ -49,7 +49,7 @@
       "bonus_headline": "Sports & Casino Combined Platform",
       "feature_bullets": ["SRIJ licensed — modern interface", "Popular slots and live games", "Frequent promotions for loyal players"],
       "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
-      "min_deposit_gbp": 10,
+      "min_deposit_eur": 10,
       "min_wager_terms": "25x bonus, 30 days",
       "tracker_url": "https://www.lebull.pt/?partner=p70998p72043p5fbb&utm_source=bonusportugal&subid=bpt_lebull_w4",
       "logo_bg": "#2d2d2d"
@@ -62,7 +62,7 @@
       "bonus_headline": "25 Free Spins No Deposit on Sign-Up",
       "feature_bullets": ["SRIJ licensed — Portuguese brand", "No-deposit free spins", "Only 2x rollover requirement"],
       "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
-      "min_deposit_gbp": 10,
+      "min_deposit_eur": 10,
       "min_wager_terms": "2x rollover, 1 day",
       "tracker_url": "https://www.nossaaposta.pt/casino?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=bonus_pt&subid=bpt_nossa_w5",
       "logo_bg": "#d4001a"

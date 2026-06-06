@@ -10,6 +10,7 @@ export const metadata: Metadata = {
   title: 'Bonus Portugal — Compare Licensed Casino Offers in Portugal',
   description: 'Compare the best SRIJ-licensed casino welcome offers in Portugal. Independent editorial picks for adults 18+.',
   robots: { index: true, follow: true },
+  icons: { icon: '/favicon.svg' },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

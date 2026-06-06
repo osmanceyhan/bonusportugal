@@ -2,6 +2,7 @@ import { headers } from 'next/headers';
 import OfferRow from '@/components/OfferRow';
 import Questions from '@/components/Questions';
 import ConsentBar from '@/components/ConsentBar';
+import HeaderNav from '@/components/HeaderNav';
 import offersData from '@/data/offers.json';
 
 type Offer = {
@@ -48,6 +49,7 @@ export default async function HomePage() {
             <a href="#how">How We Select</a>
             <a href="#safety">Safety</a>
           </nav>
+          <HeaderNav />
         </div>
       </header>
 

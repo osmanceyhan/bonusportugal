@@ -1,6 +1,6 @@
 {
   "site": "bonusportugal",
-  "clickid": "bp20260606",
+  "clickid": "bpt2026jun",
   "offers": [
     {
       "slug": "solverde",
@@ -12,7 +12,7 @@
       "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
       "min_deposit_gbp": 10,
       "min_wager_terms": "30x bonus, 30 days",
-      "tracker_url": "https://www.solverde.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=solverde&subid=sv-bp0606",
+      "tracker_url": "https://www.solverde.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=solverde&subid=bpt_solverde_w1",
       "logo_bg": "#003d7a"
     },
     {
@@ -25,7 +25,7 @@
       "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco", "PayPal"],
       "min_deposit_gbp": 10,
       "min_wager_terms": "30x bonus, 30 days",
-      "tracker_url": "https://www.bwin.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=bwin&subid=bw-bp0606",
+      "tracker_url": "https://www.bwin.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=bwin&subid=bpt_bwin_w2",
       "logo_bg": "#1a1a1a"
     },
     {
@@ -38,7 +38,7 @@
       "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
       "min_deposit_gbp": 10,
       "min_wager_terms": "35x bonus, 30 days",
-      "tracker_url": "https://www.esconline.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=esc-online&subid=esc-bp0606",
+      "tracker_url": "https://www.esconline.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=esc-online&subid=bpt_esconline_w3",
       "logo_bg": "#0a0a0a"
     },
     {
@@ -51,7 +51,7 @@
       "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
       "min_deposit_gbp": 10,
       "min_wager_terms": "20x bonus, 30 days",
-      "tracker_url": "https://www.betano.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=betano&subid=bet-bp0606",
+      "tracker_url": "https://www.betano.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=betano&subid=bpt_betano_w4",
       "logo_bg": "#1a8b4d"
     },
     {
@@ -64,7 +64,7 @@
       "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco"],
       "min_deposit_gbp": 10,
       "min_wager_terms": "20x bonus, 30 days",
-      "tracker_url": "https://www.betclic.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=betclic&subid=bc-bp0606",
+      "tracker_url": "https://www.betclic.pt/?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=pt_bonus&utm_content=betclic&subid=bpt_betclic_w5",
       "logo_bg": "#e3001b"
     }
   ]

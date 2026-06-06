@@ -106,7 +106,7 @@ body { background: var(--bp-bg); color: var(--bp-ink); }
   background: var(--bp-ink); border-radius: 12px; margin: 36px 0;
 }
 .bp-trust a { display: flex; }
-.bp-trust img { height: 22px; width: auto; opacity: 0.6; transition: opacity 200ms; }
+.bp-trust img { height: 40px; width: auto; opacity: 0.7; transition: opacity 200ms; }
 .bp-trust a:hover img { opacity: 0.9; }
 
 /* ── HOW WE SELECT ── */

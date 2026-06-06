@@ -101,10 +101,13 @@ body { background: var(--bp-bg); color: var(--bp-ink); }
 
 /* ── TRUST ROW ── */
 .bp-trust {
-  padding: 36px 0; border-top: 1px solid var(--bp-border);
-  display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;
+  padding: 20px; border-top: 1px solid var(--bp-border);
+  display: flex; justify-content: center; gap: 14px; flex-wrap: wrap;
+  background: var(--bp-ink); border-radius: 12px; margin: 36px 0;
 }
-.bp-trust img { height: 22px; width: auto; opacity: 0.4; }
+.bp-trust a { display: flex; }
+.bp-trust img { height: 22px; width: auto; opacity: 0.6; transition: opacity 200ms; }
+.bp-trust a:hover img { opacity: 0.9; }
 
 /* ── HOW WE SELECT ── */
 .bp-how { padding: 40px 0; border-top: 1px solid var(--bp-border); }

@@ -1,30 +1,28 @@
 import type { Config } from 'tailwindcss';
 
 const config: Config = {
-  content: [
-    './app/**/*.{ts,tsx}',
-    './components/**/*.{ts,tsx}',
-  ],
+  content: ['./app/**/*.{ts,tsx}', './components/**/*.{ts,tsx}'],
   theme: {
     extend: {
       colors: {
-        vault: {
-          bg: '#0a0e1a',
-          card: '#131a2e',
-          gold: '#d4a85a',
-          'gold-dim': '#a98443',
-          text: '#e6e9f2',
-          mute: '#8b96aa',
-          border: '#1f2942',
+        ocean: {
+          bg: '#f7f9fc',
+          card: '#ffffff',
+          blue: '#0066cc',
+          'blue-dim': '#0052a3',
+          ink: '#0f2b4a',
+          mute: '#5a6d82',
+          border: '#dce4ef',
         },
       },
       fontFamily: {
-        display: ['var(--font-cinzel)', 'serif'],
-        body: ['var(--font-inter)', 'system-ui', 'sans-serif'],
+        heading: ['var(--font-figtree)', 'system-ui', 'sans-serif'],
+        body: ['var(--font-dm)', 'system-ui', 'sans-serif'],
       },
+      borderRadius: { card: '14px' },
       boxShadow: {
-        vault: '0 10px 30px rgba(0,0,0,0.45)',
-        'gold-ring': '0 0 0 1px rgba(212,168,90,0.4), 0 6px 22px rgba(212,168,90,0.15)',
+        soft: '0 1px 3px rgba(15,43,74,0.05), 0 6px 20px rgba(15,43,74,0.07)',
+        lift: '0 4px 8px rgba(15,43,74,0.06), 0 16px 36px rgba(15,43,74,0.11)',
       },
     },
   },

@@ -12,7 +12,7 @@
       "payment_methods": ["Visa", "Mastercard", "MB Way", "Multibanco", "PayPal"],
       "min_deposit_eur": 10,
       "min_wager_terms": "30x bonus, 30 days",
-      "tracker_url": "https://www.bwin.pt/pt/casino?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=bonus_pt&subid=bpt_bwin_w1",
+      "tracker_url": "https://www.bwin.pt/pt/sports?utm_source=bonusportugal&utm_medium=affiliate&utm_campaign=bonus_pt&subid=bpt_bwin_w1",
       "logo_bg": "#1a1a1a"
     },
     {
